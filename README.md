@@ -9,7 +9,7 @@ This project is a YouTube video summarizer built using React and TypeScript. It 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/arshadakl/Youtube-Summarizer.git
+   git clone https://github.com/manmohankataria/Youtube-Summriser.git
    ```
 
 2. **Navigate to the project directory:**
@@ -31,9 +31,4 @@ This project is a YouTube video summarizer built using React and TypeScript. It 
 
 - **Time-saving**: Users can quickly obtain summaries of lengthy YouTube videos without having to watch the entire content.
 - **Convenience**: The summarizer provides a concise overview of the video's key points, making it easier for users to grasp the main ideas.
-
-
-## Live Demo
-
-Check out the live demo of the YouTube Video Summarizer [arshadakl.github.io/Youtube-Summarizer](https://arshadakl.github.io/Youtube-Summarizer/).
 
